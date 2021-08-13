@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=WordFun
+comment1.params=w
+comment1.target=WordFun(java.lang.String)
+comment2.params=
+comment2.target=void\ makeUpper()
+comment3.params=
+comment3.target=void\ addHyphen()
+comment4.params=
+comment4.target=void\ getWord()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Bullets
+comment1.params=
+comment1.target=Bullets()
+comment2.params=al
+comment2.target=void\ add(Ammo)
+comment3.params=window
+comment3.target=void\ drawEmAll(java.awt.Graphics)
+comment4.params=
+comment4.target=void\ moveEmAll()
+comment5.params=
+comment5.target=void\ cleanEmUp()
+comment6.params=
+comment6.target=java.util.List\ getList()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

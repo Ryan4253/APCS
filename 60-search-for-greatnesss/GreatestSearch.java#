@@ -1,0 +1,26 @@
+
+/**
+ * Write a description of class GreatestSearch here.
+ *
+ * @author (your name)
+ * @version (a version number or a date)
+ */
+
+import java.util.ArrayList;
+public class GreatestSearch
+{
+    
+    // Create instance variable to store teams
+    
+    // Create constructor (populate it with the list of Premier League teams (2020-2021) in alphabetical order)
+    // This is a good resource.
+    // https://en.wikipedia.org/wiki/2020–21_Premier_League
+    
+    
+    // Linear Search Method (receives a team Name) and returns location.
+    
+    
+    // Binary Search Method (receives a team Name) and returns location.
+    
+    // toString method returns a String with the arraylist of teams
+}

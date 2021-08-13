@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Ammo
+comment1.params=
+comment1.target=Ammo()
+comment2.params=x\ y
+comment2.target=Ammo(int,\ int)
+comment3.params=x\ y\ s
+comment3.target=Ammo(int,\ int,\ int)
+comment4.params=s
+comment4.target=void\ setSpeed(int)
+comment5.params=
+comment5.target=int\ getSpeed()
+comment6.params=window
+comment6.target=void\ draw(java.awt.Graphics)
+comment7.params=direction
+comment7.target=void\ move(java.lang.String)
+comment8.params=a
+comment8.target=boolean\ collides(Alien)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10
