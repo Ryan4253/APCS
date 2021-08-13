@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=StarsAndStripes
+comment1.params=
+comment1.target=StarsAndStripes()
+comment2.params=
+comment2.target=void\ printTwentyStars()
+comment3.params=
+comment3.target=void\ printTwentyDashes()
+comment4.params=
+comment4.target=void\ printTwoBlankLines()
+comment5.params=
+comment5.target=void\ printASmallBox()
+comment6.params=
+comment6.target=void\ printABigBox()
+numComments=7

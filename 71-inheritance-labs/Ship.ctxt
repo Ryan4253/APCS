@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Ship
+comment1.params=
+comment1.target=Ship()
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=x\ y
+comment2.target=Ship(int,\ int)
+comment3.params=x\ y\ s
+comment3.target=Ship(int,\ int,\ int)
+comment4.params=x\ y\ w\ h\ s
+comment4.target=Ship(int,\ int,\ int,\ int,\ int)
+comment5.params=s
+comment5.target=void\ setSpeed(int)
+comment6.params=
+comment6.target=int\ getSpeed()
+comment7.params=direction
+comment7.target=void\ move(java.lang.String)
+comment8.params=a
+comment8.target=boolean\ collides(Alien)
+comment9.params=window
+comment9.target=void\ draw(java.awt.Graphics)
+numComments=11

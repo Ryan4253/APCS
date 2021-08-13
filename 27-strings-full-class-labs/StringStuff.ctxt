@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=StringStuff
+comment1.params=w
+comment1.target=StringStuff(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getFirstLastLetters()
+comment3.params=
+comment3.target=java.lang.String\ getMiddleLetter()
+comment4.params=
+comment4.target=boolean\ sameFirstLastLetters()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

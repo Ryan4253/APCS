@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=PascalsTriangle
+comment1.params=
+comment1.target=PascalsTriangle()
+comment2.params=size
+comment2.target=PascalsTriangle(int)
+comment3.params=
+comment3.target=void\ createTriangle()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

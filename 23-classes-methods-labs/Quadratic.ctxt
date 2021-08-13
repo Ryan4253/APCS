@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Quadratic
+comment1.params=_a\ _b\ _c
+comment1.target=double\ getRootOne(int,\ int,\ int)
+comment2.params=_a\ _b\ _c
+comment2.target=double\ getRootTwo(int,\ int,\ int)
+numComments=3

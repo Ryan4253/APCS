@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=MilesPerHour
+comment1.params=dist\ hrs\ mins
+comment1.target=double\ getMPH(int,\ int,\ int)
+numComments=2
